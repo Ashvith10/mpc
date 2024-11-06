@@ -1,5 +1,5 @@
 #include "ptest.h"
-#include "../mpc.h"
+#include <mpc.h>
 
 #include <stdlib.h>
 #include <string.h>

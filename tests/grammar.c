@@ -1,5 +1,5 @@
 #include "ptest.h"
-#include "../mpc.h"
+#include <mpc.h>
 
 void test_grammar(void) {
 
